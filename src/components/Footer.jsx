@@ -37,10 +37,10 @@ const Footer = () => {
                 <FaPhone /> +91 9933888397
               </li>
               <li>
-                <FaWhatsapp /> +91 9933888397
+                <FaWhatsapp /> +91 7029675532
               </li>
               <li>
-                <FaEnvelope /> info@gangasagartravel.com
+                <FaEnvelope /> ganagasagaryatra@vectosmind.com
               </li>
               <li>
                 <FaMapMarkerAlt /> Gangasagar, Sagar Island, West Bengal
